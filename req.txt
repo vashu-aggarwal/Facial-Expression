@@ -5,5 +5,5 @@ numpy
 jupyter
 notebook
 tqdm
-opencv-contrib-python
+opencv-contrib-python==4.5.5.62
 scikit-learn
